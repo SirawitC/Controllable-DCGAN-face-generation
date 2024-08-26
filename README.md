@@ -6,4 +6,4 @@ This code is licensed under the MIT License. See the [LICENSE](LICENSE) file for
 
 
 ## Author
-This function was created by [Sirawit Chokphantavee](https://github.com/SirawitC) and [Sorawit Chokphantavee](https://github.com/SorawitChok).
+This repository was created by [Sirawit Chokphantavee](https://github.com/SirawitC) and [Sorawit Chokphantavee](https://github.com/SorawitChok).
