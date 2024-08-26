@@ -1,5 +1,6 @@
 # Controllable Deep Convolutional Generative Adversarial Network (DCGAN)
 This repository contains an implementation of Controllable Deep Convolutional Generative Adversarial Networks (DCGANs), a type of GAN designed to generate images with some specific features such as black hair, blond hair, glasses, or smile
+This project was a part of the Deep Learning course taught at SIIT.
 
 ## License
 This code is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
